@@ -17,7 +17,7 @@ Relkci Zabbix Templates
 Twitter: @Krelkci
 GitHub: @Relkci
 
-##License
+## License
 Unless specified otherwise within a specific repository, the license for all above associated repositories is Apache 2.0
 
 ## Special Thanks
