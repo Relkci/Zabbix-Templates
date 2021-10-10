@@ -12,6 +12,7 @@ Relkci Zabbix Templates
 | Zabbix_ShodanAPIStatus       | Zabbix Template for Shodan.io API account usage. Provides account info and API usage.              | [GitHub](https://github.com/Relkci/Zabbix_Shodan-APIStatus)      |
 | Zabbix_VirusTotalAPIStatus   | Zabbix Template for VirusTotal API account usage. Provides account info and API usage.             | [GitHub](https://github.com/Relkci/Zabbix_VirusTotalAPIStatus)   |
 | Zabbix_Cloudflared           | Zabbix Template for Cloudflared (Argo) Tunnel Metrics and Monitoring                               | [GitHub](https://github.com/Relkci/Zabbix_Cloudflared)           |
+| Zabbix_Geolocation-IPSTack   | Zabbix Template for IP Geolocation Information using IPStack API Provider                          | [GitHub](https://github.com/Relkci/Zabbix_GeoLocation-IPStack)   |
 
 ## Contact
 Twitter: @Krelkci
