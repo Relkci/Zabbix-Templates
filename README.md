@@ -13,6 +13,7 @@ Relkci Zabbix Templates
 | Zabbix_VirusTotalAPIStatus   | Zabbix Template for VirusTotal API account usage. Provides account info and API usage.             | [GitHub](https://github.com/Relkci/Zabbix_VirusTotalAPIStatus)   |
 | Zabbix_Cloudflared           | Zabbix Template for Cloudflared (Argo) Tunnel Metrics and Monitoring                               | [GitHub](https://github.com/Relkci/Zabbix_Cloudflared)           |
 | Zabbix_Geolocation-IPSTack   | Zabbix Template for IP Geolocation Information using IPStack API Provider                          | [GitHub](https://github.com/Relkci/Zabbix_GeoLocation-IPStack)   |
+| Zabbix_Nessus-Professional_Monitoring   | Zabbix Template for monitong Nessus Professional Scanner                          | [GitHub](https://github.com/Relkci/Zabbix_Nessus-Professional_Monitoring)   |
 
 ## Contact
 Twitter: @Krelkci
