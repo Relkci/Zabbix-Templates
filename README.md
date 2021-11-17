@@ -15,6 +15,7 @@ Relkci Zabbix Templates
 | Zabbix_Geolocation-IPSTack   | Zabbix Template for IP Geolocation Information using IPStack API Provider                          | [GitHub](https://github.com/Relkci/Zabbix_GeoLocation-IPStack)   |
 | Zabbix_Nessus-Professional_Monitoring   | Zabbix Template for monitong Nessus Professional Scanner                          | [GitHub](https://github.com/Relkci/Zabbix_Nessus-Professional_Monitoring)   |
 | Zabbix_MailChimp_Status | Zabbix Template for MailChimp/Mandrill Monitoring via API v3 |[GitHub](https://github.com/Relkci/Zabbix_MailChimpStats) |
+| Zabbix_SecurityScorecard_API | Zabbix Template for Security Scorecard API | [GitHub](https://github.com/Relkci/Zabbix_SecurityScorecard) |
 
 ## Contact
 Twitter: @Krelkci
