@@ -4,6 +4,7 @@ Relkci Zabbix Templates
 
 | Zabbix Template              | Use                                                                                                | GUI - GIT                                                        |
 |------------------------------|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| Zabbix_Hubitat               | Zabbix monitor for Hubitat Smart Home Device                                                       | [GitHub](https://github.com/Relkci/Zabbix-Hubitat)               |
 | Zabbix_Bandwidth-vnstat      | Get Daily, Monthly and Alltime Bandwidth Information /w Triggers                                   | [GitHub](https://github.com/Relkci/Zabbix_Bandwidth-vnstat)      |
 | Zabbix_FullContact_API       | Zabbix Data Collector For FullContact API Provider  - Provides account info and API request usage. | [GitHub](https://github.com/Relkci/Zabbix_FullContact_API)       |
 | Zabbix_Sendgrid_Api_Provider | Zabbbix Data Collector For Sendgrid API Provider  - Provides account info and API/SMTP usage.      | [GitHub](https://github.com/Relkci/Zabbix_Sendgrid_Api_Provider) |
